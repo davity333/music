@@ -1,0 +1,35 @@
+#botons{
+    margin-top: 90px;
+    border-radius: 50px;
+    background-color: rgb(120, 109, 81);
+    font-size: 40px;
+    width: 55px;
+}
+
+#btn{
+    margin-top: -45px;
+    margin-left: 666px;
+}
+
+#cargar{
+    margin-left: 672px;
+    margin-top: -210px;
+}
+
+#btnCargar{
+    color: rgb(255, 255, 255);
+    background-color: rgba(114, 140, 78, 0.499);
+}
+
+
+
+
+#botonsPause{
+    margin-left: 780px;
+    margin-top: -55px;
+    border-radius: 50px;
+    background-color: rgb(120, 109, 81);
+    font-size: 40px;
+    width: 55px;
+    position: absolute;
+}

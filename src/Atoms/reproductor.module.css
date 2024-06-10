@@ -1,0 +1,21 @@
+#reproductor{
+    width: 330px;
+    height: 5px;
+    margin-left: 580px;
+    overflow: hidden;
+    cursor: pointer;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    background-color: rgb(204, 204, 197);
+}
+
+#reproductor::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    width: 1px;
+    height: 20px;
+    box-shadow: -400px 0 0 400px rgb(93, 93, 63);
+}
+
+#label{
+    margin-top: -200px;
+}

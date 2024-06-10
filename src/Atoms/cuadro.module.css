@@ -1,0 +1,10 @@
+#cuadro{
+    background-color: rgb(178, 170, 125);
+    height: 600px;
+    width: 400px;
+    margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
